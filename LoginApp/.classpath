@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Resource"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Struts_Spring">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-fileupload-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-io-1.3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-lang-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/commons-logging-api-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/freemarker-2.3.18.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/javassist-3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/ognl-3.0.4.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-asm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-beans-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-context-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-core-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-expression-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-jdbc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-orm-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-tx-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-web-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/spring-webmvc-3.0.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/struts2-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/struts2-dojo-plugin-2.3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/struts2-spring-plugin-2.3.15.jar"/>
+	<classpathentry kind="lib" path="D:/Neha_Novartis/RFC/NewJars/xwork-core-2.3.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/252692/Downloads/servlet-2.2.8.jar.zip"/>
+	<classpathentry kind="con" path="org.eclipse.jst.server.core.container/org.eclipse.jst.server.tomcat.runtimeTarget/Apache Tomcat v6.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
